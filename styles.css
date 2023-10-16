@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+}
+
+main {
+  position: relative;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+  background-color: bisque;
+}
+
+video {
+  background: transparent;
+}
+
+.drop-style {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+}/*# sourceMappingURL=styles.css.map */
